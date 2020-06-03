@@ -9,6 +9,5 @@ target
 *.class
 .idea/
 *.iml
-build
 /.checkstyle.*
 *target*
